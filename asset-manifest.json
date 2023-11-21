@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e87b778f.css",
-    "main.js": "/static/js/main.ea2c9cf7.js",
-    "index.html": "/index.html",
-    "static/media/task-x.svg": "/static/media/task-x.58d94ff17838335c8a652e7037701e63.svg",
-    "static/media/restart-alt.svg": "/static/media/restart-alt.c6b35d9e9c3147b0e8d8f0e292fb6820.svg",
-    "static/media/task.svg": "/static/media/task.491290a04252db690699da759d31f3ee.svg",
-    "static/media/outline-delete.svg": "/static/media/outline-delete.8d06248802b86f68ede3e04f66c7b284.svg",
-    "main.e87b778f.css.map": "/static/css/main.e87b778f.css.map",
-    "main.ea2c9cf7.js.map": "/static/js/main.ea2c9cf7.js.map"
+    "main.css": "/TODO-APP/static/css/main.e87b778f.css",
+    "main.js": "/TODO-APP/static/js/main.57994cd0.js",
+    "index.html": "/TODO-APP/index.html",
+    "static/media/task-x.svg": "/TODO-APP/static/media/task-x.58d94ff17838335c8a652e7037701e63.svg",
+    "static/media/restart-alt.svg": "/TODO-APP/static/media/restart-alt.c6b35d9e9c3147b0e8d8f0e292fb6820.svg",
+    "static/media/task.svg": "/TODO-APP/static/media/task.491290a04252db690699da759d31f3ee.svg",
+    "static/media/outline-delete.svg": "/TODO-APP/static/media/outline-delete.8d06248802b86f68ede3e04f66c7b284.svg",
+    "main.e87b778f.css.map": "/TODO-APP/static/css/main.e87b778f.css.map",
+    "main.57994cd0.js.map": "/TODO-APP/static/js/main.57994cd0.js.map"
   },
   "entrypoints": [
     "static/css/main.e87b778f.css",
-    "static/js/main.ea2c9cf7.js"
+    "static/js/main.57994cd0.js"
   ]
 }
